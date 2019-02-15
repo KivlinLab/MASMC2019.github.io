@@ -58,8 +58,6 @@ A reciept will be returned to you.
 
 ### Field Trip
 
-[link to Great Smoky Mountain National Park collecting permit](https://docs.google.com/viewer?url=${https://github.com/KivlinLab/MASMC2019/blob/master/GSMNP_CollectingPermit_2019.pdf})
-
 <a href="https://github.com/KivlinLab/MASMC2019/blob/master/GSMNP_CollectingPermit_2019.pdf" download="https://docs.google.com/viewer?url=${https://github.com/KivlinLab/MASMC2019/blob/master/GSMNP_CollectingPermit_2019.pdf}"> Great Smoky Mountains National Park collecting permit</a>
  
 
